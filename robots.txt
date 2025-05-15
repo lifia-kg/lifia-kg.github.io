@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lifia-gk.github.io/sitemap.xml
+Sitemap: https://lifia-kg.github.io/sitemap.xml
