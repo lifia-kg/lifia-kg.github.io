@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Personas 
+description: Miembros del proyecto
 nav: true
 nav_order: 7
 
@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>+54 9 236-547352</p>
+      <p>Calle 16 e 59 y 60</p>
+      <p>La Plata,Buenos Aires, Argentina</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: fotoAlva.jpegx
+    content: about_alvaro.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>+54 9 236-547352</p>
+      <p>Calle 16 e 59 y 60</p>
+      <p>La Plata,Buenos Aires, Argentina</p>
 ---
