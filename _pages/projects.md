@@ -1,11 +1,11 @@
 ---
 layout: page
-title: proyectos
+title: Proyectos
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Descripcion de los modulos que integran el observatorio de valores del suelo
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work,fun ]
 horizontal: false
 ---
 

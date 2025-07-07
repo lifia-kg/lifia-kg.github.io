@@ -1,7 +1,8 @@
 ---
+# YA NO SE VISUALIZA
 layout: page
 title: submenus
-nav: true
+nav: false # para que no se vea en la navbar
 nav_order: 8
 dropdown: true
 children:

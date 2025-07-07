@@ -1,8 +1,9 @@
 ---
 layout: about
-title: Nosotros
+title: Observatorio Inmobiliario
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Tecnología y colaboración para democratizar el acceso a datos del inmobiliarios
+
 
 profile:
   align: right
@@ -26,10 +27,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hola equipo! Estamos creando este sitio prueba de alva.
+Somos un equipo interdisciplinario del Centro LIFIA y el Centro LINTA (CICPBA), dedicado a desarrollar herramientas innovadoras para analizar el mercado inmobiliario de la provincia de Buenos Aires. Nuestro trabajo combina procesamiento de lenguaje natural, grafos de conocimiento y sistemas de información geográfica para transformar datos dispersos en información accionable.
+¿Quiénes somos?
+Un proyecto de vinculación tecnológica que integra:
+- Investigadores en informática y ciencias de datos.
+- Estudiantes de grado y posgrado (UNLP).
+- Instituciones aliadas: CICPBA, Facultad de Informática (UNLP), y organismos públicos.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Enmarcado en el proyecto IDis 2024 y convocatorias de extensión universitaria.
+Nuestro trabajo
+Desarrollamos 8 módulos interconectados para extraer, curar y visualizar datos inmobiliarios:
+- Scraper
+- AVE
+- Caminero
+- Validacion SHACL
+- Deduplicador
+- Mapper 
+- MillenniumDB
+- GeoNode
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Formación y extensión
+Involucramos a estudiantes en proyectos reales, alineados con los ejes temáticos de la UNLP:
+- Tecnología para la inclusión social.
+- Herramientas para la economía popular.
+- Transparencia de datos públicos.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Impacto
+"Nuestro sistema automatiza el curado de datos inmobiliarios, permitiendo visualizar características clave para la valoración del suelo en plataformas GIS" (Abstract del equipo, 2024).
+Contacto
+¿Interesado en colaborar o usar nuestros datos?
+equipo@observatorioinmobiliario.ar

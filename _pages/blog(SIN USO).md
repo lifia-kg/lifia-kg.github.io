@@ -1,8 +1,9 @@
 ---
+# BLOG YA NO SE VISUALIZA PORQUE NO LA NECESITAMOS
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false # Lo pongo en false porque no quiero que se vea esta pagina en la navbar
 nav_order: 1
 pagination:
   enabled: true

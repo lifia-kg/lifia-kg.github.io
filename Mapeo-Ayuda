@@ -1,0 +1,52 @@
+🗺️ Mapa del proyecto al-folio
+🔧 Configuración general
+Archivo	Descripción
+_config.yml	Config principal de Jekyll. Título, descripción, URL base, plugins, datos del CV, secciones, etc. ¡Clave para personalizar el sitio!
+Gemfile, Gemfile.lock	Declaración de dependencias Ruby. El Gemfile.lock se ignora porque usás contenedor.
+docker-compose.yml	Define cómo correr el sitio localmente. Mapea tu proyecto local al contenedor.
+Dockerfile	Si lo usás, define cómo construir tu propia imagen personalizada (en este caso parece que no se usa directamente).
+
+🧱 Contenido del sitio
+Estas carpetas son el contenido visible en el sitio:
+Carpeta	¿Qué contiene?	
+_pages/	Las páginas del sitio (ej: inicio.md, blog.md, perfiles.md, etc). Se renderizan como secciones del sitio
+_posts/	Entradas del blog (formato YYYY-MM-DD-titulo.md).	
+_projects/	Proyectos personales que se listan en la sección "Projects".	
+_news/	Noticias o anuncios, renderizados en la sección "News".	
+_books/	Libros recomendados o reseñados. Secciones tipo "Shelf
+
+🎨 Estilo y diseño
+Carpeta / Archivo	¿Qué hace?	¿Editar?
+_layouts/	Plantillas de páginas (default.liquid, cv.liquid, etc.). Controlan estructura general.	⚠️ Solo si querés modificar el diseño base
+_includes/	Fragmentos reusables (header, footer, bibliografía, etc.). Se insertan en layouts.	✅ Sí, para personalización
+_sass/	Archivos SCSS. Controlan colores, tipografía, márgenes, etc.	✅ Sí, si querés personalizar estilos
+assets/	Archivos estáticos: imágenes, videos, audio, CSS/JS final.	✅ Sí (salvo libs/ que suele estar ignorado)
+
+📦 Datos estructurados
+Carpeta / Archivo	Descripción	¿Editar?
+_data/	Archivos YAML con datos de CV, redes sociales, repositorios, coautores.	✅ Sí
+_bibliography/	Archivo .bib con publicaciones (integrado con plugin de citación).	✅ Sí
+
+📂 Scripts y herramientas
+Carpeta / Archivo	¿Para qué sirve?
+_plugins/	Plugins personalizados de Jekyll (citaciones, cache bust, etc.).
+_scripts/	JS complementario (analytics, búsqueda, fotos).
+bin/	Scripts para CI/CD, deploy o inicialización (entry_point.sh).
+.github/	Workflows de GitHub Actions.
+.devcontainer/	Config para desarrollo con VS Code Remote Containers.
+.tweet-cache/	Cache de tweets embebidos (automático).
+readme_preview/	Imágenes usadas en el README del repo.
+lighthouse_results/	Resultados de análisis de performance.
+
+🛑 No editar directamente
+Carpeta	¿Por qué no?
+_site/	Contenido generado automáticamente por Jekyll. Se borra y recrea en cada build.
+.jekyll-cache/, .bundle/, .sass-cache/	Cache de compilación. No necesario en git.
+node_modules/, vendor/	Dependencias externas. Se regeneran si hiciera falta.
+
+📄 Otros archivos útiles
+Archivo	¿Para qué sirve?
+README.md, INSTALL.md, FAQ.md, CUSTOMIZE.md	Guías de uso del proyecto.
+.prettierrc, .prettierignore	Configuración del formateo de código.
+.pre-commit-config.yaml	Hooks de pre-commit si usás pre-commit.
+.git-blame-ignore-revs	Ignora ciertos commits en blame (útil para refactors).
