@@ -79,9 +79,7 @@ El sitio está construido usando:
 screenshot
 🎓 Créditos
 
-Este sitio fue construido a partir del tema al-folio, creado por Maruan Al-Shedivat y colaboradores bajo licencia MIT.
-
+Este sitio fue construido a partir del tema al-folio.
 Adaptado por el equipo de Cientópolis para fines de investigación y difusión pública.
 📄 Licencia
-
 Este sitio y sus contenidos están bajo la licencia MIT, a menos que se indique lo contrario.
