@@ -33,6 +33,7 @@ Alfonso Armani, David Matías, Justo Alvarado, Lucía Molina, Juli Ñancufil, Ca
 
 ## Visualización
 **Coordinación:** Martín Venturino
+**Integrantes:** Ana Freidas
 
 ---
 
