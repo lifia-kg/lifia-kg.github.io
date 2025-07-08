@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: /profiles-personas/prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>Calle 16 e 59 y 60</p>
       <p>La Plata,Buenos Aires, Argentina</p>
   - align: left
-    image: fotoAlva.jpegx
+    image: /profiles-personas/fotoAlva.jpg
     content: about_alvaro.md
     image_circular: false # crops the image to make it circular
     more_info: >
