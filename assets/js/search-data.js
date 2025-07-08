@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-proyectos",
           title: "Proyectos",
-          description: "Descripcion de los modulos que integran el observatorio de valores del suelo",
+          description: "Descripción de los módulos que integran el Observatorio de Valores del Suelo",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
