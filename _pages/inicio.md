@@ -4,7 +4,6 @@ title: Observatorio Inmobiliario
 permalink: /
 subtitle: Tecnología y colaboración para democratizar el acceso a datos del inmobiliarios
 
-
 profile:
   align: right
   image: logoOVS.png
@@ -30,6 +29,7 @@ latest_posts:
 Somos un equipo interdisciplinario del Centro LIFIA y el Centro LINTA (CICPBA), dedicado a desarrollar herramientas innovadoras para analizar el mercado inmobiliario de la provincia de Buenos Aires. Nuestro trabajo combina procesamiento de lenguaje natural, grafos de conocimiento y sistemas de información geográfica para transformar datos dispersos en información accionable.
 ¿Quiénes somos?
 Un proyecto de vinculación tecnológica que integra:
+
 - Investigadores en informática y ciencias de datos.
 - Estudiantes de grado y posgrado (UNLP).
 - Instituciones aliadas: CICPBA, Facultad de Informática (UNLP), y organismos públicos.
@@ -37,17 +37,19 @@ Un proyecto de vinculación tecnológica que integra:
 Enmarcado en el proyecto IDis 2024 y convocatorias de extensión universitaria.
 Nuestro trabajo
 Desarrollamos 8 módulos interconectados para extraer, curar y visualizar datos inmobiliarios:
+
 - Scraper
 - AVE
 - Caminero
 - Validacion SHACL
 - Deduplicador
-- Mapper 
+- Mapper
 - MillenniumDB
 - GeoNode
 
 Formación y extensión
 Involucramos a estudiantes en proyectos reales, alineados con los ejes temáticos de la UNLP:
+
 - Tecnología para la inclusión social.
 - Herramientas para la economía popular.
 - Transparencia de datos públicos.

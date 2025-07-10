@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Personas 
+title: Personas
 description: Miembros del proyecto
 nav: true
 nav_order: 7
