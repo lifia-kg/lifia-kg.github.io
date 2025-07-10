@@ -1,4 +1,5 @@
 🧬 cientopolis.github.io
+
 <div align="center"> <img src="https://github.com/cientopolis.png" width="100" alt="cientopolis logo" /> </div> <div align="center">
 
 Sitio web de proyectos del Observatorio de Valores del Suelo (OVS)
@@ -6,6 +7,7 @@ Diseñado como una plataforma central para compartir datos, visualizaciones, pub
 
 🔗 Ir al sitio | 🌐 Sobre Cientópolis
 📊 Repositorios | ⚙️ Tecnologías | 🎓 Créditos
+
 </div>
 🛰️ Sobre el proyecto
 
