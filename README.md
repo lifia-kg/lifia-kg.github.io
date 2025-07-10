@@ -3,7 +3,9 @@
 
 =======
 cientopolis.github.io
->>>>>>> 9d4084f (Update README.md)
+
+> > > > > > > 9d4084f (Update README.md)
+
 <div align="center"> <img src="https://github.com/cientopolis.png" width="100" alt="cientopolis logo" /> </div> <div align="center">
 
 Sitio web de proyectos del Observatorio de Valores del Suelo (OVS)
@@ -14,8 +16,10 @@ Diseñado como una plataforma central para compartir datos, visualizaciones, pub
 📊 Repositorios | ⚙️ Tecnologías | 🎓 Créditos
 
 =======
-📊 Repositorios | ⚙️ Tecnologías 
->>>>>>> 9d4084f (Update README.md)
+📊 Repositorios | ⚙️ Tecnologías
+
+> > > > > > > 9d4084f (Update README.md)
+
 </div>
 Sobre el proyecto
 
