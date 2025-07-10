@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 🧬 cientopolis.github.io
+
+# <<<<<<< HEAD
+
+=======
+cientopolis.github.io
+
+> > > > > > > 9d4084f (Update README.md)
+
+> > > > > > > a489542ffe74eac8af351ae128bd42d52820fd91
 
 <div align="center"> <img src="https://github.com/cientopolis.png" width="100" alt="cientopolis logo" /> </div> <div align="center">
 
@@ -6,7 +16,9 @@ Sitio web de proyectos del Observatorio de Valores del Suelo (OVS)
 Diseñado como una plataforma central para compartir datos, visualizaciones, publicaciones y herramientas desarrolladas por el equipo de Cientópolis.
 
 🔗 Ir al sitio | 🌐 Sobre Cientópolis
+<<<<<<< HEAD
 📊 Repositorios | ⚙️ Tecnologías | 🎓 Créditos
+<<<<<<< HEAD
 
 </div>
 🛰️ Sobre el proyecto
@@ -41,49 +53,24 @@ Este sitio toma contenido y documentación de los siguientes repositorios:
 
     OVS-caminero
 
-    Ovs-mapper-publico
+=======
 
-    OVS-inmontology
+> > > > > > > a489542ffe74eac8af351ae128bd42d52820fd91
 
-    OVS-extractor-idis
+=======
+📊 Repositorios | ⚙️ Tecnologías
 
-    observatorioInmobiliario
+> > > > > > > 9d4084f (Update README.md)
 
-También podés visitar la página de repositorios para una vista detallada.
-⚙️ Tecnologías
+</div>
+Sobre el proyecto
 
-El sitio está construido usando:
+Este sitio recopila herramientas y desarrollos de datos vinculados al análisis territorial e inmobiliario,procesamiento de lenguaje natural aplicado a propiedades,visualización de datos abiertosOntologías urbanas y grafos de conocimiento.
 
-    📄 Jekyll + al-folio como tema base
-
-    🖥️ GitHub Pages para despliegue continuo
-
-    🧪 YAML, BibTeX y Markdown para contenido estructurado
-
-    🐙 GitHub Actions para despliegue automático
-
-    🧠 Integración con publicaciones académicas y código
-
-💡 Estructura del sitio
-
-    /projects: Visualización unificada de los proyectos activos
-
-    /repositories: Repositorios destacados de GitHub
-
-    /cv: Currículum del equipo
-
-    /publications: Publicaciones relacionadas
-
-    /people: Personas involucradas
-
-📸 Vista previa
-
-screenshot
-🎓 Créditos
-
-Este sitio fue construido a partir del tema al-folio, creado por Maruan Al-Shedivat y colaboradores bajo licencia MIT.
-
-Adaptado por el equipo de Cientópolis para fines de investigación y difusión pública.
 📄 Licencia
+<<<<<<< HEAD
 
-Este sitio y sus contenidos están bajo la licencia MIT, a menos que se indique lo contrario.
+=======
+
+> > > > > > > a489542ffe74eac8af351ae128bd42d52820fd91
+> > > > > > > Este sitio y sus contenidos están bajo la licencia MIT, a menos que se indique lo contrario.
