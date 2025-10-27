@@ -45,8 +45,8 @@ email: info@lifia.info.unlp.edu.ar # your email address
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social_x: 
-  logo: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png 
+custom_social_x:
+  logo: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
   title: Custom Social X
   url: https://x.com/LifiaUNLP
 custom_social: # can be any name here other than the ones already defined above
