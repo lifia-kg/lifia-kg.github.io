@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>headquarters</a>.Universidad Nacional de La Plata - LIFIA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kgraph.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>50 y 120, La Plata (1900), Bs.As,Argentina</p>
+    <p>Phone/Fax(54 221) 422 8252</p>
+    <p>info@lifia.info.unlp.edu.ar</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

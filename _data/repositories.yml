@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - magictowers
+  - tanevitch
+  - jborrrelliz
+  - mateoiba30
+  - marventu94
+  - paganoalvi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cientopolis/OVS-extractor-idis
+  - cientopolis/OVS-caminero
+  - cientopolis/Ovs-mapper-publico
+  - cientopolis/OVS-inmontology
+  - cientopolis/OVS-extractor-idis
+  - cientopolis/OVS-RDFGraphGPT
+
