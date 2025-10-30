@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Knowledge graph team projects .
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -53,7 +53,7 @@ horizontal: false
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
-  </div>
+  </div> 
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
