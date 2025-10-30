@@ -21,6 +21,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+
   #latest_posts:
   #enabled: true
   #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -35,7 +36,7 @@ Currently, the team is developing the Land Value Observatory of the Province of 
 
 To power this platform, the team employs, among other technologies, a knowledge graph based on the RealEstate ontology, which has been extended and refined by domain experts.
 
-<!-- Hola equipo! Estamos creando este sitio. 
+<!-- Hola equipo! Estamos creando este sitio.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

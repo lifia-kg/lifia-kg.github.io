@@ -23,7 +23,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>LIFIA-UNLP</p>
-    
+
   - align: right
     image: borrelli.jpeg
     content: about_borrelli.md
