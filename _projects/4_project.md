@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Mapper
+description: A tool that converts CSV datasets into knowledge graphs in TTL format, using a real-estate ontology to structure the information. 
+img: assets/img/mapper.PNG
+importance: 2
+category: work
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

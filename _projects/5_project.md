@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Attribute Value Extraction (AVE)
+description: Natural-language processing tool that extracts attribute–value pairs from real-estate listing descriptions.
+img: assets/img/ave.PNG
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

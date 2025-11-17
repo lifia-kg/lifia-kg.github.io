@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Deduplicator
+description: A module designed to detect and merge duplicate real-estate listings to ensure clean and consistent data.
+img: assets/img/deduplicador.PNG
+importance: 6
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
