@@ -75,44 +75,44 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-scraper",
+          title: 'Scraper',
+          description: "Script that collects real-estate advertisements",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-rdf-graph-gpt",
+          title: 'RDF-Graph-GPT',
+          description: "A module that transforms natural language into RDF files and provides interactive graph visualizations generated from the extracted triples.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-geocoder",
+          title: 'Geocoder',
+          description: "Geocoding script that generates geographic coordinates from textual address data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-mapper",
+          title: 'Mapper',
+          description: "A tool that converts CSV datasets into knowledge graphs in TTL format, using a real-estate ontology to structure the information.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-attribute-value-extraction-ave",
+          title: 'Attribute Value Extraction (AVE)',
+          description: "Natural-language processing tool that extracts attribute–value pairs from real-estate listing descriptions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-deduplicator",
+          title: 'Deduplicator',
+          description: "A module designed to detect and merge duplicate real-estate listings to ensure clean and consistent data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-deduplicator",
+          title: 'Deduplicator',
+          description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-mapper",
+          title: 'Mapper',
+          description: "A natural-language processing tool that extracts attribute–value pairs from real-estate listing descriptions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
