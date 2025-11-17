@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mapper
-description: A tool that converts CSV datasets into knowledge graphs in TTL format, using a real-estate ontology to structure the information. 
+description: A tool that converts CSV datasets into knowledge graphs in TTL format, using a real-estate ontology to structure the information.
 img: assets/img/mapper.PNG
 importance: 2
 category: work
