@@ -64,18 +64,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-expo-ciencia-y-tecnología-2024-informatica-unlp",
+          title: 'Expo Ciencia y Tecnología 2024 - Informatica UNLP',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-expo-ciencia-y-tecnología-2025-informatica-unlp",
+          title: 'Expo Ciencia y Tecnología 2025 - Informatica UNLP',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-jornada-de-investigadores-en-formación-unqui",
+          title: 'Jornada de Investigadores en Formación - UnQui',
           description: "",
-          section: "News",},{id: "projects-scraper",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-scraper",
           title: 'Scraper',
           description: "Script that collects real-estate advertisements",
           section: "Projects",handler: () => {
