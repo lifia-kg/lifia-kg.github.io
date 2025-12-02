@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>50 y 120, La Plata (1900), Bs.As,Argentina</p>
     <p>Phone/Fax(54 221) 422 8252</p>
-    <p>x</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

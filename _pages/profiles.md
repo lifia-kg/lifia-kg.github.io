@@ -15,40 +15,40 @@ profiles:
     content: about_torres.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 
   - align: left
     image: tanevitch.png
     content: about_tanevitch.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 
   - align: right
     image: borrelli.jpeg
     content: about_borrelli.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 
   - align: left
     image: venturino.jpeg
     content: about_venturino.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 
   - align: right
-    image: ibanez.jpeg
+    image: ibanez.jpg
     content: about_ibanez_gutkin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 
   - align: left
     image: fotoAlva.jpg
     content: about_pagano.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>LIFIA-UNLP</p>
+      <p>LIFIA-UNLP-KGTeam</p>
 ---

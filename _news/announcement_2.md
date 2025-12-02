@@ -1,33 +1,71 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Expo Ciencia y Tecnología 2025 - Informatica UNLP
+date: 2025-10-22 09:11:00-0400
 inline: false
 related_posts: false
 ---
+Motivation
+---
+The LIFIA Knowledge-Graph Team participated in ExpoCiencia 2025, showcasing recent advances in the development of knowledge-driven technologies for territorial analysis. Our presentation focused on the work carried out within the Land Value Observatory of the Province of Buenos Aires (OVS), a joint research initiative between LINTA, LIFIA, and the Provincial Agency for Social and Urban Integration (OPISU).
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+
+The OVS aims to monitor the evolution and conditions of parcels and real-estate assets across the Province of Buenos Aires. To achieve this, it requires an updated, georeferenced, and semantically enriched data infrastructure.
+
+LIFIA contributed by developing the first version of a real-estate knowledge graph (KG) that powers the OVS platform. One of the ongoing challenges is enabling natural-language interaction with the graph so that non-expert users can benefit from the reasoning and inference capabilities of knowledge graphs.
+
 
 ---
+# Work Presented at ExpoCiencia 2025
+### 1. Integration Application with RDFGraphGPT
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+We developed an integration with RDFGraphGPT, an application that automatically translates natural language text into RDF knowledge graph structures using ChatGPT-5.
+This tool brings together several components of our work:
 
-#### Hipster list
+Visualizing the OVS knowledge graph
 
+Adding new instances directly from natural language
+
+Asking natural-language questions to the KG
+
+Automatically generating the corresponding SPARQL queries
+
+Displaying results both as text (via a RAG pipeline) and graph-based visualizations
+
+This provides a seamless workflow for querying, extending, and inspecting the knowledge graph.
+
+### 2. Knowledge Graph Construction
+
+We refactored the module responsible for constructing the real-estate knowledge graph from tabular property-listing data.
+The new version supports two execution modes —Scraper and AVE— eliminating the need to manually merge intermediate files from different extraction processes. This optimization streamlines data integration and reduces the risk of inconsistencies.
+
+### 3. Automatic SPARQL Query Generation
+
+We trained ChatGPT-5 to transform natural-language questions into SPARQL queries over the real-estate KG. Using an example-based learning approach, the model learned the structure and patterns of the queries, achieving more accurate and consistent results.
+
+During experimentation, we observed that small wording adjustments—such as using clearer synonyms—significantly improved the model’s interpretation.
+We also defined a fixed context and a set of simple rules to guide query generation, reducing ambiguity and increasing reliability and stability.
+
+### 4. RAG Pipeline Implementation
+
+The RAG system integrates two AI models working in sequence:
+
+GPT-5 converts the user’s question into a SPARQL query.
+
+The query is executed on MillenniumDB, retrieving the relevant RDF triples.
+
+Llama-3 interprets those triples and generates a coherent, context-aware answer in natural language.
+
+This approach allows users to ask complex questions and receive easily understandable responses without needing SPARQL expertise.
+
+### 5. Web Interface Enhancements for GeoNode
+
+We improved the design and usability of GeoNode, the geospatial data management platform used in the OVS ecosystem. Enhancements include:
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>A cleaner, streamlined interface</li>
+    <li>Integration of custom images and logos</li>
+    <li>Removal of unnecessary elements</li>
+    <li>Better navigation and overall user experience</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+These improvements support a more intuitive and visually consistent interaction with OVS datasets.
