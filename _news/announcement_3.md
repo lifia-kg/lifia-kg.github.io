@@ -5,16 +5,18 @@ date: 2025-11-13 07:59:00-0400
 inline: false
 related_posts: false
 ---
-Jornada de Investigadores en Formación – Universidad Nacional de Quilmes (JIF-UNQUI)
----
 
-### Overview 
+## Jornada de Investigadores en Formación – Universidad Nacional de Quilmes (JIF-UNQUI)
+
+### Overview
+
 Members of the LIFIA Knowledge-Graph Team participated in the Jornada de Investigadores en Formación held at the Universidad Nacional de Quilmes (UNQ), where part of the ongoing work within the Land Value Observatory (OVS) project was presented.
 The event highlighted research advances in knowledge graphs, natural-language processing, and geospatial analysis applied to the real-estate domain.
 
 Three presentations were delivered, each addressing a different technical aspect of the project.
 
 ### Presentations
+
 ## 1. Visualizing Knowledge Graphs with Geospatial Data for Real-Estate Market Analysis
 
 This presentation introduced a novel approach for visualizing knowledge graphs enriched with geospatial information, enabling improved exploration and understanding of real-estate datasets within the OVS framework.

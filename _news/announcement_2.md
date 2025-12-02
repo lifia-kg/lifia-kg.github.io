@@ -5,18 +5,19 @@ date: 2025-10-22 09:11:00-0400
 inline: false
 related_posts: false
 ---
-Motivation
----
-The LIFIA Knowledge-Graph Team participated in ExpoCiencia 2025, showcasing recent advances in the development of knowledge-driven technologies for territorial analysis. Our presentation focused on the work carried out within the Land Value Observatory of the Province of Buenos Aires (OVS), a joint research initiative between LINTA, LIFIA, and the Provincial Agency for Social and Urban Integration (OPISU).
 
+## Motivation
+
+The LIFIA Knowledge-Graph Team participated in ExpoCiencia 2025, showcasing recent advances in the development of knowledge-driven technologies for territorial analysis. Our presentation focused on the work carried out within the Land Value Observatory of the Province of Buenos Aires (OVS), a joint research initiative between LINTA, LIFIA, and the Provincial Agency for Social and Urban Integration (OPISU).
 
 The OVS aims to monitor the evolution and conditions of parcels and real-estate assets across the Province of Buenos Aires. To achieve this, it requires an updated, georeferenced, and semantically enriched data infrastructure.
 
 LIFIA contributed by developing the first version of a real-estate knowledge graph (KG) that powers the OVS platform. One of the ongoing challenges is enabling natural-language interaction with the graph so that non-expert users can benefit from the reasoning and inference capabilities of knowledge graphs.
 
-
 ---
+
 # Work Presented at ExpoCiencia 2025
+
 ### 1. Integration Application with RDFGraphGPT
 
 We developed an integration with RDFGraphGPT, an application that automatically translates natural language text into RDF knowledge graph structures using ChatGPT-5.
@@ -61,6 +62,7 @@ This approach allows users to ask complex questions and receive easily understan
 ### 5. Web Interface Enhancements for GeoNode
 
 We improved the design and usability of GeoNode, the geospatial data management platform used in the OVS ecosystem. Enhancements include:
+
 <ul>
     <li>A cleaner, streamlined interface</li>
     <li>Integration of custom images and logos</li>

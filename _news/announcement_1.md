@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 Expo Ciencia y Tecnología 2024 - Informatica UNLP
-
