@@ -7,6 +7,7 @@ importance: 2
 category: work
 giscus_comments: false
 ---
+
 This project processes and geocodes addresses using multiple Python libraries. It consists of three core scripts designed for flexibility and accuracy in converting addresses into geographic coordinates:
 
 procesar_direcciones.py: Allows the user to select a CSV file and choose the preferred API for geocoding the addresses.
